@@ -1,0 +1,14 @@
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\ListPedidosFunction.deps.json
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\ListPedidosFunction.runtimeconfig.json
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\ListPedidosFunction.pdb
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\MySqlConnector.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\tay_b\Documents\Desenvolvimento\Orders-api\ListPedidosFunction\src\ListPedidosFunction\bin\Release\net8.0\publish\ListPedidosFunction.dll

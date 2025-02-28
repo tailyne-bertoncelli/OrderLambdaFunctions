@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "5IeYZzbelCY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tay_b\\Documents\\Desenvolvimento\\Orders-api\\GetPedidoFunction\\src\\GetPedidoFunction\\GetPedidoFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tay_b\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.2.0\\amazon.lambda.applicationloadbalancerevents.2.2.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\9.0.4\\amazon.lambda.aspnetcoreserver.9.0.4.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.1\\amazon.lambda.logging.aspnetcore.3.1.1.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.6\\microsoft.netcore.app.runtime.linux-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\tay_b\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.6\\microsoft.netcore.app.crossgen2.win-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
